@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2281" started-at="2019-02-21T01:10:07Z" finished-at="2019-02-21T01:10:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2281" started-at="2019-02-21T01:10:07Z" finished-at="2019-02-21T01:10:10Z">
+      <class name="SingletonTest.PageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:SingletonTest.PageTest@c038203]" name="setUp" is-config="true" duration-ms="1394" started-at="2019-02-21T01:10:07Z" finished-at="2019-02-21T01:10:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMethodZLX2001()[pri:0, instance:SingletonTest.PageTest@c038203]" name="testMethodZLX2001" duration-ms="793" started-at="2019-02-21T01:10:09Z" finished-at="2019-02-21T01:10:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodZLX2001 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SingletonTest.PageTest@c038203]" name="tearDown" is-config="true" duration-ms="77" started-at="2019-02-21T01:10:10Z" finished-at="2019-02-21T01:10:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SingletonTest.PageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
